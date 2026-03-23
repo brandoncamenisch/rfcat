@@ -1,0 +1,3 @@
+[submodule "firmware/CC-Bootloader"]
+	path = firmware/CC-Bootloader
+	url = https://github.com/AdamLaurie/CC-Bootloader.git
